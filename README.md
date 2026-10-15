@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi 👋 I'm Bhuvana Samala
+Project Engineer at Wipro
 
-<!--
-**bhuvanaSamala/bhuvanaSamala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+DevOps Engineer
+AI & Data Science Graduate
+Cloud Enthusiast
+Full Stack Developer
+Skills
+AWS
+Docker
+Kubernetes
+Jenkins
+Git
+Linux
+React
+Spring Boot
+Python
+FastAPI
+PostgreSQL
+Generative AI
+RAG
+Certifications
+DevOps Foundation Level 1
+Google Gemini CPS Learning Journey
+Currently Working On
+Healthcare Knowledge & Wellness Advisor Platform
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect With Me
+LinkedIn
+GitHub
